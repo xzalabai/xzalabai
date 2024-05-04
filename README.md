@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @xzalabai, fresh graduate from Faculty of Informatics and Information Technologies.
-- 👀 I’m interested in VR solutions and Game development along with interesting projects of any kind.
+- 👋 Hi, I’m @xzalabai, graduate from Faculty of Informatics and Information Technologies and currently working in Bongfish Game dev studio.
 - 📫 You can catch me on tibornr@gmail.com
